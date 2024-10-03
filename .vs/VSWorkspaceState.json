@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data_loader",
+    "\\model",
+    "\\prediction",
+    "\\trainer",
+    "\\utils3d"
+  ],
+  "SelectedNode": "\\data_loader\\FaceDataset.py",
+  "PreviewInSolutionExplorer": false
+}
